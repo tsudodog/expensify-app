@@ -1,5 +1,5 @@
 //SET_TEXT_FILTER
-export const setTextFilter = (textValue) => ({
+export const setTextFilter = (textValue= '') => ({
     type:'SET_TEXT_FILTER',
     textValue
 })
