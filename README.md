@@ -23,3 +23,7 @@ can add -- watch to watch the file for changes
 
 
 [Useful youtube for setting up some VSCode](https://www.youtube.com/watch?v=bfyI9yl3qfE)
+
+### notepad
+// Create expenses-total.js and expenses-total.test.js
+
